@@ -1,0 +1,10 @@
+E:\Estudos\Padrões de Projeto\Padrões de Projeto\bin\Debug\Padrões de Projeto.exe
+E:\Estudos\Padrões de Projeto\Padrões de Projeto\bin\Debug\Padrões de Projeto.pdb
+E:\Estudos\Padrões de Projeto\Padrões de Projeto\obj\x86\Debug\Padrões de Projeto.exe
+E:\Estudos\Padrões de Projeto\Padrões de Projeto\obj\x86\Debug\Padrões de Projeto.pdb
+E:\Estudos\Padrões de Projeto\Padrao_Builder\obj\x86\Debug\Padrões de Projeto.exe
+E:\Estudos\Padrões de Projeto\Padrao_Builder\obj\x86\Debug\Padrões de Projeto.pdb
+E:\Estudos\Padrões de Projeto\Padrao_Builder\bin\Debug\Padrões de Projeto.exe
+E:\Estudos\Padrões de Projeto\Padrao_Builder\bin\Debug\Padrões de Projeto.pdb
+E:\Estudos\DesignPatterns\Padrao_Builder\obj\x86\Debug\Padrões de Projeto.exe
+E:\Estudos\DesignPatterns\Padrao_Builder\obj\x86\Debug\Padrões de Projeto.pdb
