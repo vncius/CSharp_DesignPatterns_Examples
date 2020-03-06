@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{CDC48620-1BCF-4459-AD11-3E9E4F0C1270}</ProjectGuid>
+    <ProjectGuid>{21E5825F-5D4A-4DA6-960E-65934E37B875}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Padrao_Singleton</RootNamespace>
-    <AssemblyName>Padrao_Singleton</AssemblyName>
+    <RootNamespace>Padrao_Prototype</RootNamespace>
+    <AssemblyName>Padrao_Prototype</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -43,10 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Model\Cadeira.cs" />
-    <Compile Include="Model\CadeiraDeFio.cs" />
-    <Compile Include="Model\Mesa.cs" />
-    <Compile Include="SingletonGenerics.cs" />
+    <Compile Include="Model\IdCaracteristicas.cs" />
+    <Compile Include="Model\Produto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

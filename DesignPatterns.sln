@@ -1,7 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Padrao_Builder", "..\Padrões de Projeto\Padrao_Builder\Padrao_Builder.csproj", "{34DC0D50-183A-496E-A58C-2E790BE820ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Padrao_Builder", "Padrao_Builder\Padrao_Builder.csproj", "{34DC0D50-183A-496E-A58C-2E790BE820ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Padrao_Singleton", "Padrao_Singleton\Padrao_Singleton.csproj", "{CDC48620-1BCF-4459-AD11-3E9E4F0C1270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Padrao_Prototype", "Padrao_Prototype\Padrao_Prototype.csproj", "{21E5825F-5D4A-4DA6-960E-65934E37B875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESTE_CODE", "TESTE_CODE\TESTE_CODE.csproj", "{5AB4E470-7B17-41E4-86AA-E191494E05A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +19,18 @@ Global
 		{34DC0D50-183A-496E-A58C-2E790BE820ED}.Debug|x86.Build.0 = Debug|x86
 		{34DC0D50-183A-496E-A58C-2E790BE820ED}.Release|x86.ActiveCfg = Release|x86
 		{34DC0D50-183A-496E-A58C-2E790BE820ED}.Release|x86.Build.0 = Release|x86
+		{CDC48620-1BCF-4459-AD11-3E9E4F0C1270}.Debug|x86.ActiveCfg = Debug|x86
+		{CDC48620-1BCF-4459-AD11-3E9E4F0C1270}.Debug|x86.Build.0 = Debug|x86
+		{CDC48620-1BCF-4459-AD11-3E9E4F0C1270}.Release|x86.ActiveCfg = Release|x86
+		{CDC48620-1BCF-4459-AD11-3E9E4F0C1270}.Release|x86.Build.0 = Release|x86
+		{21E5825F-5D4A-4DA6-960E-65934E37B875}.Debug|x86.ActiveCfg = Debug|x86
+		{21E5825F-5D4A-4DA6-960E-65934E37B875}.Debug|x86.Build.0 = Debug|x86
+		{21E5825F-5D4A-4DA6-960E-65934E37B875}.Release|x86.ActiveCfg = Release|x86
+		{21E5825F-5D4A-4DA6-960E-65934E37B875}.Release|x86.Build.0 = Release|x86
+		{5AB4E470-7B17-41E4-86AA-E191494E05A2}.Debug|x86.ActiveCfg = Debug|x86
+		{5AB4E470-7B17-41E4-86AA-E191494E05A2}.Debug|x86.Build.0 = Debug|x86
+		{5AB4E470-7B17-41E4-86AA-E191494E05A2}.Release|x86.ActiveCfg = Release|x86
+		{5AB4E470-7B17-41E4-86AA-E191494E05A2}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

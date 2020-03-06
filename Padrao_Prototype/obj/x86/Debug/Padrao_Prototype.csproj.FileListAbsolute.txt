@@ -1,0 +1,4 @@
+E:\Estudos\DesignPatterns\Padrao_Prototype\bin\Debug\Padrao_Prototype.exe
+E:\Estudos\DesignPatterns\Padrao_Prototype\bin\Debug\Padrao_Prototype.pdb
+E:\Estudos\DesignPatterns\Padrao_Prototype\obj\x86\Debug\Padrao_Prototype.exe
+E:\Estudos\DesignPatterns\Padrao_Prototype\obj\x86\Debug\Padrao_Prototype.pdb

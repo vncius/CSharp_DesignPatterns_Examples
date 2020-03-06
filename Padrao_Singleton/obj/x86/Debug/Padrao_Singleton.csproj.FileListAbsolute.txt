@@ -2,3 +2,7 @@ E:\Estudos\Padrões de Projeto\Padrao_Singleton\bin\Debug\Padrao_Singleton.exe
 E:\Estudos\Padrões de Projeto\Padrao_Singleton\bin\Debug\Padrao_Singleton.pdb
 E:\Estudos\Padrões de Projeto\Padrao_Singleton\obj\x86\Debug\Padrao_Singleton.exe
 E:\Estudos\Padrões de Projeto\Padrao_Singleton\obj\x86\Debug\Padrao_Singleton.pdb
+E:\Estudos\DesignPatterns\Padrao_Singleton\obj\x86\Debug\Padrao_Singleton.exe
+E:\Estudos\DesignPatterns\Padrao_Singleton\bin\Debug\Padrao_Singleton.exe
+E:\Estudos\DesignPatterns\Padrao_Singleton\bin\Debug\Padrao_Singleton.pdb
+E:\Estudos\DesignPatterns\Padrao_Singleton\obj\x86\Debug\Padrao_Singleton.pdb
